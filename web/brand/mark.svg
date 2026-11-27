@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Transcriptor">
-  <title>Transcriptor</title>
-  <circle cx="256" cy="256" r="256" fill="#c15f3c"/>
-  <path d="M182 148 L182 364 L374 256 Z" fill="#faf9f6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" aria-label="Transcriptor" role="img" viewBox="0 0 512 512"><title>Transcriptor</title><circle cx="256" cy="256" r="256" fill="#c15f3c"/><path fill="#faf9f6" d="M182 148 L182 364 L374 256 Z"/></svg>
